@@ -20,5 +20,5 @@ print(decryptedText == plainText)
 ```
 
 Full specifications can be found [here](https://norx.io/data/norx.pdf).  
-Based on [this](https://github.com/norx/norx/blob/master/norx3241/ref/norx.c) project.  
-More information can be found [here](https://norx.io/).  
+Based on the C implementation which can be found [here](https://github.com/norx/norx/blob/master/norx3241/ref/norx.c).  
+More information about NORX can be found [here](https://norx.io/).  
